@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6391
   title: ལམ་འབྲས་བསོད་དགའ་རིན་པོ་ཆེའི་རང་རྣམ།
-  volume: ''
+  volume:
+    0413cecb089141bb9711affc89cb7c43:
+      image_group_id: I3CN6393
+      title: Volume 1 of lam 'bras bsod dga' rin po che'i rang rnam/
+      volume_number: 1
+      total_pages: 540
   author: ''
+ebook_metadata:
+  title: ལམ་འབྲས་བསོད་དགའ་རིན་པོ་ཆེའི་རང་རྣམ།
+  author: ''
+  sku: P007066
+  cover: cover.jpg
+  layers:
+  - pagination
